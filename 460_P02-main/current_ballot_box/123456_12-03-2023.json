@@ -1,0 +1,13 @@
+{
+  "voterID" : "123456",
+  "date" : "12-03-2023 21:47:12",
+  "races" : [ {
+    "raceID" : 21231,
+    "raceTitle" : "Vice President of the U.S.",
+    "selectedCandidate" : "Joe Biden (D)"
+  }, {
+    "raceID" : 666,
+    "raceTitle" : "2024 United States Senate Primary Election Ballot",
+    "selectedCandidate" : "David Ortega (D)"
+  } ]
+}

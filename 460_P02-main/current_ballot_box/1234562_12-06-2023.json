@@ -1,0 +1,13 @@
+{
+  "voterID" : "1234562",
+  "date" : "12-06-2023 08:51:26",
+  "races" : [ {
+    "raceID" : 21231,
+    "raceTitle" : "Vice President of the U.S.",
+    "selectedCandidate" : "Donald Trump (R)"
+  }, {
+    "raceID" : 666,
+    "raceTitle" : "2024 United States Senate Primary Election Ballot",
+    "selectedCandidate" : "Mark Allen (R)"
+  } ]
+}

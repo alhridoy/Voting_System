@@ -1,0 +1,13 @@
+{
+  "voterID" : "32323",
+  "date" : "12-12-2023 15:13:43",
+  "races" : [ {
+    "raceID" : 21231,
+    "raceTitle" : "Vice President of the U.S.",
+    "selectedCandidate" : "Joe Biden (D)"
+  }, {
+    "raceID" : 666,
+    "raceTitle" : "2024 United States Senate Primary Election Ballot",
+    "selectedCandidate" : "John Carter (R)"
+  } ]
+}

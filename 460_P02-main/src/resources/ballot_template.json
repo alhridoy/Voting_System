@@ -1,0 +1,34 @@
+
+ [{
+  "raceId":21231,
+  "raceTitle":"Vice President of the U.S.",
+  "raceType":"Presidential",
+  "raceOptions":[
+    {
+      "party": "Democratic",
+      "candidates": ["Joe Biden", "Dean Phillips", "Marianne Williamson"]
+    },
+    {
+      "party": "Republican",
+      "candidates": ["Ryan B", "Doug Burgum", "Chris Christie", "Ron DeSantis", "Nikki Haley", "Asa Hutchinson", "Vivek Ramaswamy", "Donald Trump"]
+    }
+  ]
+ },
+
+   {
+     "raceId":666,
+     "raceTitle":"2024 United States Senate Primary Election Ballot",
+     "raceType":"US Senate",
+     "raceOptions":[
+       {
+         "party": "Democratic",
+         "candidates": ["Maria Gonzalez", "David Ortega", "Linda Chavez"]
+       },
+       {
+         "party": "Republican",
+         "candidates": ["John Carter", "Emily Johnson", "Mark Allen"]
+       }
+     ]
+   }
+
+ ]

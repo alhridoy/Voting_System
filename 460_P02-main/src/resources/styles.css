@@ -1,0 +1,55 @@
+.button{
+    -fx-background-color: #c4c4c4;
+    -fx-border-color: #2a2a2a;
+    -fx-text-fill: #000000;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+.button:hover{
+    -fx-background-color: #eaeaea;
+}
+.admin-main-menu-text{
+    -fx-font-size: 1.3em;
+    -fx-font-weight: bold;
+}
+.admin-menu{
+    -fx-background-color: #dcdcdc;
+    -fx-border-color: whitesmoke;
+    -fx-border-width: 4;
+}
+.admin-top{
+    -fx-background-color: #ffffff;
+    -fx-padding: 10 0 10 0;
+}
+.admin-bottom{
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-border-width: 2 0 0 0;
+}
+.scroll-pane > .viewport{
+    -fx-background-color: transparent;
+}
+.scroll-pane{
+    -fx-background-color: #c3c6c7;
+    -fx-border-width: 7;
+    -fx-border-color: whitesmoke;
+}
+.radio-button{
+    -fx-border-width: 1.2;
+    -fx-border-color: grey;
+    -fx-background-color: #98a3a9;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+.radio-button:selected{
+    -fx-background-color: #dfe1e1;
+}
+.radio{
+    -fx-padding: 7;
+}
+.exit-button{
+    -fx-background-color: #c48080;
+}
+.open-message{
+    -fx-background-radius: 5;
+}

@@ -1,0 +1,13 @@
+{
+  "voterID" : "1324",
+  "date" : "12-03-2023 21:47:16",
+  "races" : [ {
+    "raceID" : 21231,
+    "raceTitle" : "Vice President of the U.S.",
+    "selectedCandidate" : "Dean Phillips (D)"
+  }, {
+    "raceID" : 666,
+    "raceTitle" : "2024 United States Senate Primary Election Ballot",
+    "selectedCandidate" : "Maria Gonzalez (D)"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "raceId":2,
+  "raceTitle":"Vice President of the U.S.",
+  "raceType":"Presidential",
+  "raceOptions":[
+    {
+      "party": "Democratic",
+      "candidates": ["Joe Biden", "Dean Phillips", "Marianne Williamson"]
+    },
+    {
+      "party": "Republican",
+      "candidates": ["Ryan Binkley", "Doug Burgum", "Chris Christie", "Ron DeSantis", "Nikki Haley", "Asa Hutchinson", "Vivek Ramaswamy", "Donald Trump"]
+    }
+  ]
+
+}
